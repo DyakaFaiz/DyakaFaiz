@@ -1,5 +1,5 @@
 <h2 align="center">Hi 👋, I'm Dyaka Faiz</h2>
-<h3 align="center">Interested become a web programming from Indonesia</h3>
+<h3 align="center">Interested become a web developer from Indonesia</h3>
 
  <h3 align="center"> 📫 Reach Me : reachdyakafaiz@gmail.com</h3>
  
