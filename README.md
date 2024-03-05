@@ -1,8 +1,7 @@
-<h2 align="left">Hi 👋, I'm Dyaka Faiz</h2>
+<h2 align="center">Hi 👋, I'm Dyaka Faiz</h2>
 <h3 align="center">Interested become a frontend developer from Indonesia</h3>
-###
 
- <h3>  - 📫 Reach me : reachdyakafaiz@gmail.com</h3>
+ <h3 align="center">  - 📫 Reach me : reachdyakafaiz@gmail.com</h3>
  
 ###
 <div align="center">
