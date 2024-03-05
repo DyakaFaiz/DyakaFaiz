@@ -1,7 +1,7 @@
 <h2 align="center">Hi 👋, I'm Dyaka Faiz</h2>
-<h3 align="center">Interested become a frontend developer from Indonesia</h3>
+<h3 align="center">Interested become a web programming from Indonesia</h3>
 
- <h3 align="center">  - 📫 Reach me : reachdyakafaiz@gmail.com</h3>
+ <h3 align="center"> 📫 Reach Me : reachdyakafaiz@gmail.com</h3>
  
 ###
 <div align="center">
@@ -39,7 +39,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://img.shields.io/static/v1?message=Dyaka Faiz&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
 
