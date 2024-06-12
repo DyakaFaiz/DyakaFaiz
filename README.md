@@ -1,5 +1,5 @@
-<h2 align="center">Hi 👋, I'm Dyaka Faiz</h2>
-<h3 align="center">Interested become a web developer from Indonesia</h3>
+<h2 align="center">Hi There👋</h2>
+<h3 align="center">Interested become a web developer</h3>
 
  <h3 align="center"> 📫 Reach Me : reachdyakafaiz@gmail.com</h3>
  
@@ -10,8 +10,8 @@
 </div>
 
 ###
+<div align="center">
 <h2>Technology and Tools</h2>
-<div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
