@@ -1,7 +1,7 @@
 <h2 align="center">Hi There👋</h2>
 <h3 align="center">Interested become a web developer</h3>
 
- <h3 align="center"> 📫 Reach Me : reachdyakafaiz@gmail.com</h3>
+ <h3 align="center"> 📫 Get in Touch : halodyakafaiz@gmail.com</h3>
  
 ###
 <div align="center">
