@@ -1,7 +1,11 @@
-<h2 align="center">Hi There👋</h2>
-<h3 align="center">Interested become a web developer</h3>
+<h2 align="center">Hi There👋, I'm Dyaka Faiz</h2>
+<h3 align="center">Fullstack Web Developer | Backend Engineer</h3>
 
- <h3 align="center"> 📫 Get in Touch : halodyakafaiz@gmail.com</h3>
+<p align="center">
+  <i>💡 <b>Note:</b> The majority of my daily coding, including institutional systems and client APIs, happens in <b>private repositories</b>. If my public contribution graph looks a bit quiet, it's because I am actively building behind the scenes!</i>
+</p>
+
+<h3 align="center"> 📫 Get in Touch : halodyakafaiz@gmail.com</h3>
  
 ###
 <div align="center">
@@ -18,7 +22,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" height="40" alt="php logo"/>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
@@ -40,17 +44,17 @@
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=Dyaka Faiz&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Dyaka Faiz&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/DyakaFaiz/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/DyakaFaiz/count.svg?" alt="profile visitor counter" />
 </div>
 
 ###
 
 <br clear="both">
-
-###
