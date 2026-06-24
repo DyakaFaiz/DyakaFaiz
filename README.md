@@ -44,15 +44,15 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Dyaka Faiz&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/dyaka-faiz" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Dyaka%20Faiz-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="linkedin logo" />
   </a>
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/DyakaFaiz/count.svg?" alt="profile visitor counter" />
+  <img src="https://profile-counter.glitch.me/DyakaFaiz/count.svg" alt="profile visitor counter" />
 </div>
 
 ###
