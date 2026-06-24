@@ -1,5 +1,5 @@
 <h2 align="center">Hi There👋, I'm Dyaka Faiz</h2>
-<h3 align="center">Fullstack Web Developer | Backend Engineer</h3>
+<h3 align="center">Fullstack Web Developer</h3>
 
 <p align="center">
   <i>💡 <b>Note:</b> The majority of my daily coding, including institutional systems and client APIs, happens in <b>private repositories</b>. If my public contribution graph looks a bit quiet, it's because I am actively building behind the scenes!</i>
